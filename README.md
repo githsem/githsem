@@ -23,11 +23,12 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githsem&show_icons=true&locale=en" alt="githsem" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githsem&show_icons=true&locale=en" alt="githsem" /></p>
 
-<img  align="left" alt="Coder GIF" height=200 width=280 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githsem&" alt="githsem" /></p>
 
 
 <!--
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githsem&" alt="githsem" /></p> -->
+<img  align="left" alt="Coder GIF" height=200 width=280 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+ -->
