@@ -1,4 +1,4 @@
-<h1 align="center" style="color:black;" > **Hi 👋, I'm Hasan Hüseyin** </h1>
+<h1 align="center" style="color:black;" > Hi 👋, I'm Hasan Hüseyin </h1>
 <h3 align="center">Software Test Automation Engineer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=githsem&label=Profile%20views&color=0e75b6&style=flat" alt="githsem" /> </p>
